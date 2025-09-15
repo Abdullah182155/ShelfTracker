@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+rag/
+test video/
+
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python history
+.python_history
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# VS Code settings
+.vscode/
+
+# Streamlit cache and artifacts
+.streamlit/
+.stcache/
+.stfolder/
+
+
+
+# Model and embedding downloads
+*.bin
+*.h5
+*.ckpt
+*.pth
+
+# User data folders
+shop lifters/
+non shop lifters/
+test_df/
