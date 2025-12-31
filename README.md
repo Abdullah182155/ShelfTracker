@@ -110,7 +110,7 @@ Edit parameters in `yolo_kafka_producer.py`:
 MIT License. See LICENSE file.
 
 ## Contact
-For issues, open a GitHub issue or contact [your-email].
+For issues, open a GitHub issue or contact [Abdullah.Ashraf.Emara@gmail.com].
 
 ---
 
